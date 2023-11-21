@@ -23,7 +23,7 @@ public class home extends AppCompatActivity {
 
     FirebaseAuth auth;
 
-    Button a,b,c,d,e,eggkkgg;
+    Button a,b,c,d,e,ejkggkkgg;
     RecyclerView recyclerView;
     UserAdapter userAdapter;
     FirebaseDatabase database;
